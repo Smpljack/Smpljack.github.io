@@ -23,12 +23,20 @@ sections:
         education: ''
         interests: ''
     design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
+      # Apply custom background image
+      css_class: ''
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+      # Background image
+      background:
+        image: landscape.png
+        image_darken: 0.6
+        image_parallax: false
+        image_position: center
+        image_size: cover
+        text_color_light: true
   - block: markdown
     content:
       title: '📚 My Research'
