@@ -17,10 +17,7 @@ marketing:
     description: 'Marc Prange - Earth System Scientist at Princeton University. Research in atmospheric science, climate modeling, and remote sensing.'
     twitter: 'GetResearchDev'
   favicon:
-    icon: media/raincloud-icon.svg
-    icon_32: media/raincloud-icon.svg
-    icon_192: media/raincloud-icon.svg
-    icon_512: media/raincloud-icon.svg
+    icon: icon.svg
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -72,6 +69,8 @@ custom_css:
 # Additional head content
 head_end:
   - |
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="alternate icon" href="/icon.svg">
     <style>
     .hero-section {
       background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/media/landscape.png') !important;
