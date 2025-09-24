@@ -62,3 +62,30 @@ features:
 # Custom CSS
 custom_css:
   - css/custom.css
+
+# Additional head content
+head_end:
+  - |
+    <style>
+    .hero-section {
+      background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/media/landscape.png') !important;
+      background-size: cover !important;
+      background-position: center !important;
+      background-repeat: no-repeat !important;
+      color: white !important;
+    }
+    .hero-section h1,
+    .hero-section h2,
+    .hero-section h3,
+    .hero-section p,
+    .hero-section .btn {
+      color: white !important;
+    }
+    .hero-section .btn {
+      border-color: white !important;
+    }
+    .hero-section .btn:hover {
+      background-color: rgba(255, 255, 255, 0.2) !important;
+      border-color: white !important;
+    }
+    </style>
