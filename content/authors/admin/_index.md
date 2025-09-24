@@ -155,7 +155,7 @@ skills:
       - name: Classical Guitar
         description: 'Playing since 2018, took lessons for 3 years'
         percent: 70
-        icon: music-note
+        icon: musical-note
 
 languages:
   - name: German

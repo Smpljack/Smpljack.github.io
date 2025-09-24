@@ -24,19 +24,11 @@ sections:
         interests: ''
     design:
       # Apply custom background image
-      css_class: ''
+      css_class: hero-section
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-      # Background image
-      background:
-        image: media/landscape.png
-        image_darken: 0.6
-        image_parallax: false
-        image_position: center
-        image_size: cover
-        text_color_light: true
   - block: markdown
     content:
       title: '📚 My Research'

@@ -1,0 +1,25 @@
+/* Custom background image for hero section */
+.hero-section {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../media/landscape.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.hero-section h1,
+.hero-section h2,
+.hero-section h3,
+.hero-section p,
+.hero-section .btn {
+  color: white;
+}
+
+.hero-section .btn {
+  border-color: white;
+}
+
+.hero-section .btn:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: white;
+}
