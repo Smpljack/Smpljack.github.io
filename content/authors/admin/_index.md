@@ -38,8 +38,10 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Smpljack
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=8S6Xrb4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-1208-9578
 
 interests:
   - Atmospheric Science
