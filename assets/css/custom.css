@@ -1,6 +1,6 @@
 /* Custom background image for hero section */
 .hero-section {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../media/landscape.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/media/landscape.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

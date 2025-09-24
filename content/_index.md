@@ -25,6 +25,13 @@ sections:
     design:
       # Apply custom background image
       css_class: hero-section
+      background:
+        image: media/landscape.png
+        image_darken: 0.6
+        image_parallax: false
+        image_position: center
+        image_size: cover
+        text_color_light: true
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
