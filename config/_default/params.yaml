@@ -60,16 +60,10 @@ features:
   privacy_pack:
     enable: false
 
-# Custom CSS
-custom_css:
-  - css/custom.css
 
 # Additional head content
 head_end:
   - |
-    <link rel="icon" href="/favicon.png" type="image/png">
-    <link rel="icon" href="/icon.svg" type="image/svg+xml">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <style>
     .hero-section {
       background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/media/landscape.png') !important;
