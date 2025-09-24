@@ -31,7 +31,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
       # Background image
       background:
-        image: landscape.png
+        image: media/landscape.png
         image_darken: 0.6
         image_parallax: false
         image_position: center

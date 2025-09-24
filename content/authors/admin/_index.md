@@ -131,7 +131,7 @@ skills:
       - name: Git, Shell (Bash), Slurm
         description: ''
         percent: 90
-        icon: terminal
+        icon: code-bracket
       - name: LaTeX, CDO, NCO
         description: ''
         percent: 85
@@ -139,7 +139,7 @@ skills:
       - name: Microsoft Office
         description: ''
         percent: 80
-        icon: office
+        icon: computer-desktop
   - name: Personal Interests
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -147,7 +147,7 @@ skills:
       - name: Cycling
         description: 'Long bike tours on weekends'
         percent: 85
-        icon: bicycle
+        icon: person-simple-walk
       - name: Climbing
         description: 'Regular climbing and bouldering'
         percent: 80
@@ -155,7 +155,7 @@ skills:
       - name: Classical Guitar
         description: 'Playing since 2018, took lessons for 3 years'
         percent: 70
-        icon: musical-note
+        icon: music-note
 
 languages:
   - name: German
