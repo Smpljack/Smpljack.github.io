@@ -16,6 +16,11 @@ marketing:
     org_name: ''
     description: 'Marc Prange - Earth System Scientist at Princeton University. Research in atmospheric science, climate modeling, and remote sensing.'
     twitter: 'GetResearchDev'
+  favicon:
+    icon: media/raincloud-icon.svg
+    icon_32: media/raincloud-icon.svg
+    icon_192: media/raincloud-icon.svg
+    icon_512: media/raincloud-icon.svg
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,6 +41,7 @@ header:
     show_theme_chooser: true
     logo:
       text: 'Marc Prange'
+      image: 'media/raincloud-icon.svg'
 
 # Site footer
 footer:
