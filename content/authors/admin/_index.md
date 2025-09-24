@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Marc Prange
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Marc
+last_name: Prange
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Earth System Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Princeton University
+    url: https://aos.princeton.edu/people/marc-prange
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
