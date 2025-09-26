@@ -11,7 +11,7 @@ publication_types: ["article-journal"]
 publication: "*Geophysical Research Letters*"
 publication_short: ""
 
-abstract: This study investigates the emergence and circulation coupling of mid-tropospheric moist layers in the tropics and highlights the strong seasonal variability over the tropical Atlantic, which is tied to the dynamics of African easterly waves, the Hadley circulation and convective aggregation. This study was highlighted on [eos.org](https://eos.org/editor-highlights/characteristics-of-moist-layers-over-the-tropical-atlantic).  
+abstract: This study investigates the emergence and circulation coupling of mid-tropospheric moist layers in the tropics and highlights the strong seasonal variability over the tropical Atlantic, which is tied to the dynamics of African easterly waves, the Hadley circulation and convective aggregation. This study was highlighted on [eos.org](https://eos.org/editor-highlights/characteristics-of-moist-layers-over-the-tropical-atlantic).
 
 tags:
   - Atmospheric Science
