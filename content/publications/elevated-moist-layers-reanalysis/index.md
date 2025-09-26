@@ -30,9 +30,9 @@ links:
     url: "https://doi.org/10.5281/zenodo.6940500"
 
 image:
-  caption: ''
-  focal_point: ""
-  preview_only: true
+  caption: 'Locations of daily observations of in-situ soundings, satellite overpasses (IASI+AIRS) and ERA5 reanalysis data.'
+  focal_point: "center"
+  preview_only: false
 
 projects: []
 slides: ""

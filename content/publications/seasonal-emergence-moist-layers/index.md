@@ -25,13 +25,13 @@ hugoblox:
     doi: 10.1029/2024GL108865
 
 links:
-  - type: data
+  - type: dataset
     url: "https://zenodo.org/records/11639608"
 
 image:
   caption: 'A moist layer over the tropical Atlantic on July 19th, 2021.'
   focal_point: "center"
-  preview_only: true
+  preview_only: false
 
 projects: []
 slides: ""

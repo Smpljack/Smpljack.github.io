@@ -36,7 +36,7 @@ links:
 image:
   caption: 'Thermodynamic warming response of extreme precipitation and streamflows across the contiguous United States'
   focal_point: "center"
-  preview_only: true
+  preview_only: false
 
 projects: []
 slides: ""
