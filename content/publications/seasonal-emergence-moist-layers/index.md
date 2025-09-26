@@ -9,17 +9,16 @@ date: "2024-01-01T00:00:00Z"
 publishDate: "2024-01-01T00:00:00Z"
 
 publication_types: ["article-journal"]
-publication: "*Geophysical Research Letters 51.15 (2024) e2024GL108865*"
+publication: "*Geophysical Research Letters*"
 publication_short: ""
 
-abstract: This study investigates the seasonal emergence and circulation coupling of moist layers over the tropical Atlantic, providing new insights into atmospheric moisture dynamics in this critical region.
-
-summary: Investigation of seasonal patterns in atmospheric moisture layers and their coupling with circulation patterns over the tropical Atlantic.
+abstract: This study investigates the emergence and circulation coupling of mid-tropospheric moist layers in the tropics and highlights the strong seasonal variability over the tropical Atlantic, which is tied to the dynamics of African easterly waves, the Hadley circulation and convective aggregation. This study was highlighted on [eos.org](https://eos.org/editor-highlights/characteristics-of-moist-layers-over-the-tropical-atlantic).
 
 tags:
   - Atmospheric Science
-  - Moisture Layers
+  - Moist Layers
   - Tropical Atlantic
+  - Convection
 featured: true
 
 hugoblox:
@@ -27,12 +26,8 @@ hugoblox:
     doi: 10.1029/2024GL108865
 
 links:
-  - type: pdf
-    url: ""
-  - type: dataset
-    url: "https://doi.org/10.5281/zenodo.11639608"
-  - type: code
-    url: ""
+  - type: data
+    url: "https://zenodo.org/records/11639608"
 
 image:
   caption: ''
@@ -42,5 +37,3 @@ image:
 projects: []
 slides: ""
 ---
-
-This work was highlighted as an Editor's Highlight in EOS. The study examines how elevated moist layers emerge seasonally and interact with atmospheric circulation patterns over the tropical Atlantic, contributing to our understanding of moisture transport and atmospheric dynamics in this region.
