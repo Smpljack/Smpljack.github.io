@@ -7,8 +7,7 @@ authors:
   - Sergey Malyshev
   - Ming Hong
 
-date: "2025-01-01T00:00:00Z"
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2025-05-15T00:00:00Z"
 
 publication_types: ["article-journal"]
 publication: "*npj Climate and Atmospheric Science (2025)*"
