@@ -186,10 +186,6 @@ awards:
       PhD Thesis: "Elevated moist layers - exploring a blindspot in the global satellite observing system"
 ---
 
-I am an atmospheric scientist with a PhD in Earth System Science from the University of Hamburg, where I was part of the [research group on radiation & remote sensing](https://www.mi.uni-hamburg.de/en/arbeitsgruppen/strahlung-und-fernerkundung.html) led by [Prof. Stefan A. Buehler](https://www.mi.uni-hamburg.de/arbeitsgruppen/strahlung-und-fernerkundung/personen/buehler-stefan.html) and the [International Max Planck Research School on Earth System Modeling](https://mpimet.mpg.de/en/career/imprs-esm) (IMPRS-ESM). 
+I am an atmospheric scientist with a PhD in Earth System Science from the University of Hamburg, where I was part of the [research group on radiation & remote sensing](https://www.mi.uni-hamburg.de/en/arbeitsgruppen/strahlung-und-fernerkundung.html) led by [Prof. Stefan A. Buehler](https://www.mi.uni-hamburg.de/arbeitsgruppen/strahlung-und-fernerkundung/personen/buehler-stefan.html) and the [International Max Planck Research School on Earth System Modeling](https://mpimet.mpg.de/en/career/imprs-esm) (IMPRS-ESM). This gave me a rich experience in Earth observation and radiative transfer modeling with applications to atmospheric water vapor, convection and precipitation. 
 
-I have a rich experience in Earth observation and radiative transfer modeling with applications to atmospheric water vapor, convection and precipitation. 
-
-Through my ongoing postdoc at Princeton University, hosted at Geophysical Fluid Dynamics Laboratory (GFDL), I obtained a more applied perspective towards hydrological hazards on the land surface using climate models. 
-
-In my most recent work in collaboration with [Elena Shevliakova](https://www.gfdl.noaa.gov/elena-shevliakova-homepage/) and [Ming Zhao](https://www.gfdl.noaa.gov/ming-zhao-homepage/), I explored the relationship of extreme precipitation and river flood changes with warming across the continental United States.
+Through my ongoing postdoc at Princeton University, hosted at Geophysical Fluid Dynamics Laboratory (GFDL), I obtained a more applied perspective towards hydrological hazards on the land surface using climate models. In my most recent work in collaboration with [Elena Shevliakova](https://www.gfdl.noaa.gov/elena-shevliakova-homepage/) and [Ming Zhao](https://www.gfdl.noaa.gov/ming-zhao-homepage/), I explored the relationship of extreme precipitation and river flood changes with warming across the continental United States.
