@@ -188,7 +188,7 @@ awards:
 
 I am an atmospheric scientist with a PhD in Earth System Science from the University of Hamburg, where I was part of the [research group on radiation & remote sensing](https://www.mi.uni-hamburg.de/en/arbeitsgruppen/strahlung-und-fernerkundung.html) led by [Prof. Stefan A. Buehler](https://www.mi.uni-hamburg.de/arbeitsgruppen/strahlung-und-fernerkundung/personen/buehler-stefan.html) and the [International Max Planck Research School on Earth System Modeling](https://mpimet.mpg.de/en/career/imprs-esm) (IMPRS-ESM). 
 
-I have a rich experience in Earth observation analysis, radiative transfer modeling with applications to atmospheric water vapor, convection and precipitation. 
+I have a rich experience in Earth observation and radiative transfer modeling with applications to atmospheric water vapor, convection and precipitation. 
 
 Through my ongoing postdoc at Princeton University, hosted at Geophysical Fluid Dynamics Laboratory (GFDL), I obtained a more applied perspective towards hydrological hazards on the land surface using climate models. 
 
