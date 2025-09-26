@@ -14,9 +14,7 @@ publication_types: ["article-journal"]
 publication: "*npj Climate and Atmospheric Science (2025)*"
 publication_short: ""
 
-abstract: This study examines the thermodynamic response of precipitation and streamflow patterns to warming across the contiguous United States, providing insights into hydrological changes under climate change.
-
-summary: Analysis of thermodynamic warming effects on precipitation and streamflow patterns across the United States, revealing regional variations in hydrological responses.
+abstract: This study examines the thermodynamic response of extreme precipitation and river floods to warming across the contiguous United States, elucidating how regional land-hydrological processes can dominate can dominate precipitation changes.
 
 tags:
   - Climate Science
@@ -34,16 +32,13 @@ links:
   - type: preprint
     provider: researchsquare
     id: rs-6631514
-  - type: code
-    url: ""
+    url: https://www.researchsquare.com/article/rs-6631514/v1
 
 image:
-  caption: ''
-  focal_point: ""
+  caption: 'Thermodynamic warming response of extreme precipitation and streamflows across the contiguous United States'
+  focal_point: "center"
   preview_only: false
 
 projects: []
 slides: ""
 ---
-
-This pre-print examines how thermodynamic warming affects precipitation and streamflow patterns across the contiguous United States, providing crucial insights into regional hydrological responses to climate change.
