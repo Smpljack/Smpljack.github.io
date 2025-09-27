@@ -34,13 +34,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an atmospheric scientist with expertise in remote sensing, climate modeling, and hydrological hazards. My research focuses on understanding atmospheric moisture dynamics, particularly elevated moist layers, and their representation in satellite observations and climate models.
+        I am an atmospheric scientist with expertise in the hydrological cycle and a particular interest in hydrological hazards, utilizing remote sensing and climate modeling. My doctoral research, including the publication [on elevated moist layers in reanalyses](/publications/elevated-moist-layers-reanalysis/), elucidated our ability to resolve vertical moisture structures in the atmosphere with satellite observations and how the moisture structure affects the dynamics of precipitating convection.
 
-        Currently, I'm working as a postdoctoral researcher at Princeton University and NOAA-GFDL, where I investigate the relationship between extreme precipitation and river flood changes under warming conditions. I'm also contributing to high-resolution land surface model inter-comparison projects and implementing orographic disaggregation schemes for precipitation.
+        My ongoing postdoctoral research at Princeton University and NOAA-GFDL revolves around hydrological extremes on the land surface. My recent pre-print sheds light on the  relationship between extreme precipitation and river flood changes under a warming climate. I also implemented an orographic disaggregation scheme into the GFDL land model for downscaling precipitation and other meteorological fields to the sub-grid. Currently, I am preparing simulations for a kilometer-scale land surface model inter-comparison project.
 
         My work bridges fundamental atmospheric science with applied climate research, helping us better understand and predict hydrological hazards in a changing climate.
 
         Please reach out to collaborate on atmospheric science, climate modeling, or remote sensing projects! 🌦️
+        
     design:
       columns: '1'
   - block: collection
