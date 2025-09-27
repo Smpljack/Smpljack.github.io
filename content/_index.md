@@ -38,9 +38,7 @@ sections:
 
         My ongoing postdoctoral research revolves around hydrological extremes on the land surface. In my [recent pre-print](/publications/precipitation-streamflow-thermodynamics/) I used the GFDL climate model to shed light on the  relationship between extreme precipitation and river flood changes under a warming climate. I also implemented an orographic disaggregation scheme into the GFDL land model for downscaling precipitation and other meteorological fields to an advanced, machine-learning based sub-grid scheme, called [HydroBlocks](https://hess.copernicus.org/articles/22/3311/2018/). Currently, I am preparing simulations for a kilometer-scale land surface model inter-comparison project to examine the models' readiness for recent paradigm changing pushes to high resolution climate modeling.
 
-        My work bridges fundamental atmospheric science with applied climate research, helping us better understand and predict hydrological hazards in a changing climate.
-
-        Please reach out to collaborate on atmospheric science, climate modeling, or remote sensing projects! 🌦️
+        Please reach out to collaborate on atmospheric science, hydrological hazards, or remote sensing projects! 🌦️ 🛰 ️
         
     design:
       columns: '1'
