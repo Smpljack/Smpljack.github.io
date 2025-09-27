@@ -18,7 +18,7 @@ external_link: ""
 
 # Featured image
 image:
-  caption: "COVID-19 pandemic parameters analysis showing relationships between cases, deaths, ICU patients, testing, and vaccination rates"
+  caption: "COVID-19 pandemic parameters showing relationships between cases, ICU patients, testing, vaccination rates, etc."
   focal_point: "center"
   preview_only: false
 
@@ -72,7 +72,7 @@ The primary goal was to conduct an exploratory data analysis (EDA) on daily COVI
    - **Alternative Hypothesis**: Full vaccination significantly reduces positive test rates
    - **Significance Level**: α = 0.05
 
-### **Tools and Technologies**
+### **Tools**
 - **Python**: Primary programming language
 - **Scikit-learn**: Machine learning framework for data processing and model development
 - **Statistical Libraries**: For hypothesis testing and distribution analysis
