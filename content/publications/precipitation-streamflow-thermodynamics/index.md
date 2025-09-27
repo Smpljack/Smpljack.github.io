@@ -13,7 +13,7 @@ publication_types: ["article-journal"]
 publication: "*npj Climate and Atmospheric Science (2025)*"
 publication_short: ""
 
-abstract: This study examines the thermodynamic response of extreme precipitation and river floods to warming across the contiguous United States, elucidating how regional land-hydrological processes can dominate can dominate precipitation changes.
+abstract: This study examines the thermodynamic response of extreme precipitation and river floods to warming across the contiguous United States, elucidating how regional land-hydrological processes can dominate precipitation changes.
 
 tags:
   - Climate Science
