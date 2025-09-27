@@ -3,26 +3,22 @@ title: "EUREC4A"
 authors:
   - Bjorn Stevens
   - Sandrine Bony
-  - Farrell
+  - David Farrell
+  - ...
   - admin
-  - "[... and many others]"
 
-date: "2021-01-01T00:00:00Z"
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2021-08-25T00:00:00Z"
 
-publication_types: ["article"]
-publication: "*Earth System Science Data Discussions 2021 (2021)*"
+publication_types: ["article-journal"]
+publication: "*Earth System Science Data*"
 publication_short: ""
 
-abstract: The EUREC4A (Elucidating the Role of Clouds-Circulation Coupling in Climate) field campaign dataset provides comprehensive observations of clouds, circulation, and precipitation in the tropical Atlantic.
-
-summary: Comprehensive dataset from the EUREC4A field campaign focusing on cloud-circulation coupling in the tropical Atlantic.
+abstract: The EUREC4A (Elucidating the Role of Clouds-Circulation Coupling in Climate) field campaign provides comprehensive observations of clouds, circulation, and precipitation in the tropical Atlantic based derived from 4 research air-craft, 4 research vessels, Buoys, airborne and sailing drones, as well as in-situ observations on land.
 
 tags:
   - Field Campaign
   - Clouds
   - Circulation
-  - EUREC4A
   - Tropical Atlantic
 featured: true
 
@@ -33,12 +29,10 @@ hugoblox:
 links:
   - type: dataset
     url: "https://doi.org/10.5194/essd-2021-18"
-  - type: pdf
-    url: ""
 
 image:
-  caption: ''
-  focal_point: ""
+  caption: 'Overview of measurement platforms'
+  focal_point: "center"
   preview_only: false
 
 projects: []
