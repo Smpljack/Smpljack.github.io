@@ -38,5 +38,3 @@ image:
 projects: []
 slides: ""
 ---
-
-The EUREC4A field campaign dataset represents one of the most comprehensive observational studies of cloud-circulation coupling in the tropical Atlantic, providing crucial data for understanding climate processes in this critical region.
