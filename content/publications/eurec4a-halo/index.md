@@ -24,7 +24,7 @@ tags:
   - EUREC4A
   - Cloud-Circulation Coupling
   - Atmospheric Measurements
-featured: true
+featured: false
 
 hugoblox:
   ids:
