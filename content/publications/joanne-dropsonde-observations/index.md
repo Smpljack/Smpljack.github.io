@@ -24,7 +24,7 @@ tags:
   - EUREC4A
   - Tropical Atlantic
   - Atmospheric Profiles
-featured: true
+featured: false
 
 hugoblox:
   ids:
